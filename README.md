@@ -1,3 +1,1 @@
-# projeto-pw
-
-### Repositorio destinado ao projeto da disciplina de Projeto Web.
+# Projeto da disciplina Programação Web
